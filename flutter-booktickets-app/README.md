@@ -2,7 +2,8 @@
 
 第一个 Futtert App.仅支持 Android.只有 UI.静态页面.
 
-<video loop muted autoplay playsinline><source src="https://thumbsnap.com/i/SnvHCff2.mp4" type="video/mp4"></video>
+
+<video src="https://thumbsnap.com/i/SnvHCff2.mp4" controls></video>
 
 ## Getting Started
 
