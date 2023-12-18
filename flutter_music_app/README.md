@@ -2,7 +2,7 @@
 
 第二个 Futtert App.本地音乐播放器.具有通知栏功能
 
-[预览图](https://picshack.net/ib/MqMHnzEl8K.gif)
+![23-12-18-14-55-37.gif](https://imgfg.com/i/ptYAXPUiew.gif)
 
 ## thanks
 
