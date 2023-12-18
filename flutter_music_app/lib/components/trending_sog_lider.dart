@@ -15,7 +15,8 @@ class TrendingSogSlider extends StatelessWidget {
         height: 300,
         decoration: BoxDecoration(
           image: const DecorationImage(
-              image: NetworkImage('https://imgfg.com/i/QxZaEdhKK0.png'),
+              // image: NetworkImage('https://imgfg.com/i/QxZaEdhKK0.png'),
+              image: NetworkImage('https://imgfg.com/i/c4SKI7heGY.png'),
               fit: BoxFit.cover),
           color: divColor,
           borderRadius: BorderRadius.circular(30),

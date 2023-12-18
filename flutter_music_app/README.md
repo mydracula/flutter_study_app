@@ -1,8 +1,10 @@
-# flutter_music_app
+# app
 
 第二个 Futtert App.本地音乐播放器.具有通知栏功能
 
-## 感谢
+![23-12-18-14-55-37.gif](https://picshack.net/ib/MqMHnzEl8K.gif)
+
+## thanks
 
 [Music Player App In Flutter With GetX](https://www.youtube.com/watch?v=O9sh2HGScwk)
 

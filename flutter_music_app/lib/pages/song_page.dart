@@ -80,8 +80,6 @@ class SongPage extends StatelessWidget {
                           audioInitController.audioHandler
                               .skipToQueueItem(index);
                         }
-                        // print(
-                        //     '啊${audioInitController.audioHandler.playbackState.stream.value}');
                         Get.to(
                           () => const PlaySongPage(),
                           transition: Transition.downToUp,

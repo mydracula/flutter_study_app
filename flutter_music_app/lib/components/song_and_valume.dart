@@ -52,7 +52,8 @@ class SongAndValume extends StatelessWidget {
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(1000),
                   image: const DecorationImage(
-                      image: AssetImage("assets/images/cover.jpg"),
+                      // image: AssetImage("assets/images/cover.jpg"),
+                      image: NetworkImage('https://imgfg.com/i/3wPHyUcPxg.png'),
                       fit: BoxFit.cover),
                   color: divColor,
                 ),
