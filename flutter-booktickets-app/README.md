@@ -1,9 +1,8 @@
 # app
 
-第一个 Futtert App.仅支持 Android.只有 UI.静态页面.
+第一个 Futtert App.仅支持 Android 或 ios.只有 UI.静态页面.
 
-
-<video src="https://thumbsnap.com/i/SnvHCff2.mp4" controls></video>
+![23-11-30-09-38-34 (1).gif](https://imgfg.com/i/ZbEkxIy0Rs.gif)
 
 ## Getting Started
 
