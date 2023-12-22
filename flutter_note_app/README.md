@@ -2,7 +2,7 @@
 
 第三个 Futtert App.调用api接口进行curd操作.
 
-![23-12-22-17-08-22.gif](https://imgfg.com/i/5yvSBU2CBv.gif)
+![23-12-22-17-08-22.gif](https://imgfg.com/i/YvhcWx6Vi4.gif)
 
 ## thanks
 
